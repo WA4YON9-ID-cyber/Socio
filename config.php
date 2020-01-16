@@ -1,10 +1,10 @@
 <?php
 
 // Masukan user kaliaan
-$user = "22397";
+$user = "xxxxxxx";
 
 // Masukan key kaliaan
-$key = "f092e3f9e0eea1a86810ec18bf859beaaa5de01e";
+$key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 /* Jangan Edit Script bot ,
    jika di edit akan error 
